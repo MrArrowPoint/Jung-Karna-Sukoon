@@ -1,0 +1,26 @@
+button{
+    border-color: rgb(17, 17, 17);
+    border-style: dotted;
+    cursor: pointer;
+    color: rgba(175, 174, 174, 0.964);
+    width: 89px;
+    font-size: 25px;
+    border-radius: 16px;
+}
+button:hover{
+    background-color: rgb(146, 146, 149);
+}
+body{
+    background-color: rgb(40, 40, 40);
+}
+h1{
+    color: rgb(19, 5, 2);
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: rgb(43, 42, 42);
+    border-style: solid;
+}
