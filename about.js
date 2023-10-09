@@ -25,7 +25,7 @@ function logout() {
 function speak(){
     var synth = window.speechSynthesis;
 
-    speak_data = "Jung Karna is an polotical ideology and country made by daaniyal c , Jung karna belives in socalism totalitarianism authoritarianism country! Fun fact Jung Karna is supposed to sound like the urdu word for peace! Also your leader is Daniyal untill he dies and then a new leader will be chosen";
+    speak_data = "Jung Karna is an polotical ideology and country made by daniyal c , Jung karna belives in socalism totalitarianism authoritarianism country! Fun fact Jung Karna Sukoon is supposed to sound like the urdu word for peace and war! Also your leader is Daniyal untill he dies and then a new leader will be chosen";
 
     var utterThis = new SpeechSynthesisUtterance(speak_data);
 
